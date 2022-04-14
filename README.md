@@ -24,6 +24,11 @@
 
 ## Description
 
+# Criado sistema para locação de veículos online, onde cliente poderá realizar a locação na web, após ser aprovado a locação do veículo cliente poderá pegar o veículo na locadora, será realizado a confirmação via QRCode .
+
+## Tecnologias
+ # Projeto Criado com NestJS, onde será integrado as tecnologias graphql, typeorm BACK-END e React no front-end, futuramente será feito uma versão mobile com React Native
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
